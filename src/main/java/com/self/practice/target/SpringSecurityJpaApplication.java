@@ -39,7 +39,7 @@ public class SpringSecurityJpaApplication {
 	
 	private ApiInfo apiDetails() {
 		return new ApiInfo("Spring Security JPA Mysql", 
-				"Sample API for personal enhancement", 
+				"Spring Security JPA Mysql for personal enhancement", 
 				"1.0", 
 				"Free for Personal Use", 
 				new springfox.documentation.service.Contact("Anup Mallick", "https://github.com/anupmallick/SpringBoot-Microservice", "ianupmallick@gmail.com"), 
